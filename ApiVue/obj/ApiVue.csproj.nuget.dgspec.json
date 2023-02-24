@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "/Users/mauricio/Desktop/Vue/ApiVue/ApiVue.csproj": {}
+    "C:\\Users\\chanc\\Desktop\\ApiVue-master\\ApiVue\\ApiVue.csproj": {}
   },
   "projects": {
-    "/Users/mauricio/Desktop/Vue/ApiVue/ApiVue.csproj": {
+    "C:\\Users\\chanc\\Desktop\\ApiVue-master\\ApiVue\\ApiVue.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/mauricio/Desktop/Vue/ApiVue/ApiVue.csproj",
+        "projectUniqueName": "C:\\Users\\chanc\\Desktop\\ApiVue-master\\ApiVue\\ApiVue.csproj",
         "projectName": "ApiVue",
-        "projectPath": "/Users/mauricio/Desktop/Vue/ApiVue/ApiVue.csproj",
-        "packagesPath": "/Users/mauricio/.nuget/packages/",
-        "outputPath": "/Users/mauricio/Desktop/Vue/ApiVue/obj/",
+        "projectPath": "C:\\Users\\chanc\\Desktop\\ApiVue-master\\ApiVue\\ApiVue.csproj",
+        "packagesPath": "C:\\Users\\chanc\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\chanc\\Desktop\\ApiVue-master\\ApiVue\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/mauricio/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\chanc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -63,7 +65,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -75,7 +78,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.100/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.406\\RuntimeIdentifierGraph.json"
         }
       }
     }
